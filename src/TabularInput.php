@@ -12,7 +12,7 @@ use Yii;
 use yii\base\InvalidConfigException;
 use yii\base\Model;
 use yii\db\ActiveRecordInterface;
-use yii\bootstrap\Widget;
+use yii\bootstrap5\Widget;
 use yii\widgets\ActiveForm;
 use unclead\multipleinput\renderers\TableRenderer;
 use unclead\multipleinput\renderers\RendererInterface;
